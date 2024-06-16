@@ -1,0 +1,16 @@
+fastapi
+pydantic[all]
+alembic
+sqlalchemy
+uvicorn
+psycopg
+psycopg2
+psycopg-binary
+asyncpg
+python-dotenv
+loguru
+celery==5.3.4
+pyjwt
+openpyxl
+requests
+gunicorn
